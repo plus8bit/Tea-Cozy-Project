@@ -1,5 +1,4 @@
 
-
 body {
   font-family: Helvetica;
   font-size: 22px;
@@ -106,10 +105,14 @@ h2{
     flex-direction: column;
 }
 
+/* ......CONTACT INFO SECTION......*/
+
 .contact-info {
   height: 200px;
   margin-top: 10px;
 }
+
+/* ......FOOTER......*/
 
 footer {
   text-align: left;
