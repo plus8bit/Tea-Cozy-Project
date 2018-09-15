@@ -1,4 +1,5 @@
 
+
 body {
   font-family: Helvetica;
   font-size: 22px;
@@ -103,5 +104,14 @@ h2{
     display: flex;
     justify-content: center;
     flex-direction: column;
+}
 
+.contact-info {
+  height: 200px;
+  margin-top: 10px;
+}
+
+footer {
+  text-align: left;
+  margin-left: 20px;
 }
